@@ -1,0 +1,5 @@
+*.yaml
+*.yml
+!docs/**/*.md
+*.log
+node_modules/
